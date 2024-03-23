@@ -1,0 +1,4 @@
+.cache.sqlite
+requirements.txt
+__pycache__/
+.venv/
