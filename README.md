@@ -1,6 +1,3 @@
-Here's a suggested project description for your GitHub README:
-
----
 
 # Heat Pump Efficiency Dashboard
 
@@ -38,5 +35,3 @@ This project presents a reactive web application developed using Shiny for Pytho
    shiny run app.py
    ```
 
-
-Feel free to customize this further to better fit your specific needs and project details!
